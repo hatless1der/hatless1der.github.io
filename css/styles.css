@@ -253,7 +253,7 @@ a:hover {
 }
 .hero-text {
 	color: #676e73;
-	width: 83%;
+	width: 99%;
 	text-align: center;
 	margin: 18% auto 24px auto;
 	font-family: 'Oswald', sans-serif;
@@ -302,14 +302,14 @@ a:hover {
 	font-style: normal;
 }
 .logo {
-	font-size: 2.2em;
+	font-size: 3.7em;
 	text-shadow: none;
 	margin: 8px 0 0 0;
 }
 .logo b {
 	color: #fff;
-	font-family: 'Lobster', cursive;
-	border: 1px solid rgba(255, 255, 255, 0.25);
+	font-family: 'Georgia', serif;
+	border: 5px solid rgba(255, 255, 255, 0.25);
 	padding: 6px 22px;
 	border-radius: 40px;
 }
